@@ -9,7 +9,7 @@
     <licenseUrl>https://raw.githubusercontent.com/griffo-io/Crc32/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/griffo-io/Crc32</projectUrl>
     <iconUrl>https://github.com/griffo-io/Crc32/blob/master/logo.jpg?raw=true</iconUrl>
-    <description>Modification of a Crc32C implementation</description>
+    <description>This is a modification of the Damien Guard algorithm with a static table with improves drastically the performance</description>
     <copyright>griffo.io</copyright>
     <tags>Crc32</tags>
     <repository url="https://github.com/griffo-io/Crc32" />
